@@ -1,0 +1,8 @@
+Data comes in many formats and in varying degrees of quality. The first steps when considering a
+new file of data for processing are to establish facts about its format, the special characters it uses
+such as separators and string enclosures, whether or not it has a header row, and so on. Once these
+things have been established, you might want to summarise the data or identify problems such as
+missing values.
+This practical involves writing a Python program that uses JSON to describe the contents of a file and
+as a form of command language for manipulating data. JSON will be used both to allow a user to
+control the program (there will be no GUI) and as the format in which results are generated.
